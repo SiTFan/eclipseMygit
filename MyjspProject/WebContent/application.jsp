@@ -1,5 +1,6 @@
 <%@ page language="java" import="java.util.*,java.io.*" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
+    <!-- update -->
 <body>
 	<h1>application内置对象</h1>
 	<%
