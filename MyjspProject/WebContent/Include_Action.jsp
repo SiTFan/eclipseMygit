@@ -10,5 +10,6 @@
 <body>
 	<h1>include动作</h1>
 	<jsp:include page="include.jsp" flush="false"/>
+	<!-- 哈哈哈啊哈哈-->
 </body>
 </html>
