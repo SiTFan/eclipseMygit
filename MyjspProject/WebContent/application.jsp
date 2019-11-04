@@ -1,12 +1,6 @@
 <%@ page language="java" import="java.util.*,java.io.*" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
-    <!-- update -->
-     <!-- update -->
-      <!-- update -->
-       <!-- update -->
-        <!-- update -->
-         <!-- update -->
-         
+ 
 <body>
 	<h1>application内置对象</h1>
 	<%
@@ -23,5 +17,5 @@
 	}
 	%><br>
 	JSP(SERVLET)引擎名及版本号:<%=application.getServerInfo() %><br>
-
+	真的服了呀
 </body>
